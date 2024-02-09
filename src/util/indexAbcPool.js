@@ -4,7 +4,7 @@ import { ethers, BigNumber } from 'ethers'
 
 let contract
 
-let contractAddress = '0xa792111cb7b143CdF2EbCDF6b9716b357869a2F1'
+let contractAddress = '0xf59ea0cfe8223ce5caf72695cdd50921ea92f82f'
 
 /**
  * 全局init(名称使用合约名命名)
